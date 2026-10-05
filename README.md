@@ -2,7 +2,8 @@
 
 3SE fork of [QDU-Robomaster/Motor](https://github.com/QDU-Robomaster/Motor)
 at `b78274996f93eec611efab2ba7ecc51fbd5672b9` (Apache-2.0). Upstream
-CLI examples below use the QDU namespace; this copy is currently local.
+CLI examples below retain the QDU namespace; this repository is published at
+https://github.com/3SE-xrobot-dev/Motor.
 
 统一电机控制接口的抽象基类库 / Library of the abstract base class that unifies the motor control interface
 
